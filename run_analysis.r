@@ -2,7 +2,7 @@
 setwd("C:/Temp/Fontes R/Files")
 library(dplyr)
 
-# Verificando se o arquivo jÃ¡ existe.
+# Verificando se o arquivo ja existe.
 #
 Filename <- "getdata_projectfiles_UCI HAR Dataset"
 if (!file.exists("getdata_projectfiles_UCI HAR Dataset")){
